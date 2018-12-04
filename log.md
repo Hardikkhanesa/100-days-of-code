@@ -7,10 +7,10 @@
 
 **Thoughts:** 
 
-<
-**Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+<>**Link to work:** [Calculator App](http://www.example.com)
+
+<>### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
