@@ -1,17 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 4, 2018
+### Day 0: December 11, 2018
 <!--##### (delete me or comment me out)-->
 
-**Today's Progress**:started freecodecamp css portion with new biginning.
+**Today's Progress**:started learning html from john ducket.
 
 **Thoughts:** I am just learning git first in real implementation.
 
-### Day 1: December 5,2018
-
-**Today's Progress**:started freecodecamp css project of survey form.
-
-**Thoughts**:i think i know css but my mind says you don't.
 
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
