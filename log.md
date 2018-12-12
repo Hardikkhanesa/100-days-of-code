@@ -7,7 +7,9 @@
 
 **Thoughts:** I am just learning git first in real implementation.
 
-
+###Day1: December 12,2018
+**Today's Progress**:completed 7 chapters of learning html from john ducket.
+**Thoughts:** I am just implementing very fastly git  in real implementation,i like git very much.
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 <>### Day 0: February 30, 2016 (Example 2)
