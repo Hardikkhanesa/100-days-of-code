@@ -19,7 +19,7 @@
 
 **Thoughts:** I am just trying html in blogging.
 
-### Day2: December 14,2018
+### Day3: December 14,2018
 
 **Today's Progress**:completed 2 chapters of learning css from john ducket.
 
