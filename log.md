@@ -18,6 +18,12 @@
 **Today's Progress**:completed 3 chapters of learning html from john ducket and 1 for css.
 
 **Thoughts:** I am just trying html in blogging.
+
+### Day3: December 14,2018
+
+**Today's Progress**:completed 2 chapters of learning css from john ducket.
+
+**Thoughts:** make one project of ph scale on css.
 <!--**Link to work:** [Calculator App](http://www.example.com)
 
 <>### Day 0: February 30, 2016 (Example 2)
