@@ -24,7 +24,6 @@
 **Today's Progress**:completed 2 chapters of learning css from john ducket.
 
 **Thoughts:** make one project of ph scale on css.
-<!--**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day4: December 15,2018
 
